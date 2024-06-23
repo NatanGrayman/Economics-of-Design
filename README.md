@@ -6,7 +6,7 @@ This project evaluates the economic viability of implementing solar panels versu
 
 ### Distinction and Recognition
 
-The project received a distinction and was supported by my previous experience in accounting, highlighted by my achievement of placing in the top 10 of a national accounting Olympiad in Grade 12.
+The project received a distinction and was supported by my previous experience in accounting, highlighted by my achievement of placing in the [top 10 of a national accounting Olympiad in Grade 12](https://www.saipa.co.za/wp-content/uploads/2019/10/SAIPA-2019-Provincial-Winners-Grade12-A2-FINAL.pdf).
 
 ## Methodology
 
@@ -43,6 +43,3 @@ The project received a distinction and was supported by my previous experience i
 
 - **Solar System**: Recommended due to higher net cash flow, shorter payback period, positive NPV, and higher IRR. It is also more environmentally and socially sustainable.
 - **Financing**: A 5-year loan repayment plan is recommended to improve cash liquidity and match the 5-year forecast.
-
-
-
