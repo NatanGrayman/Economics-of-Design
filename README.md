@@ -8,14 +8,6 @@ This project evaluates the economic viability of implementing solar panels versu
 
 The project received a distinction and was supported by my previous experience in accounting, highlighted by my achievement of placing in the top 10 of a national accounting Olympiad in Grade 12.
 
-## Objectives
-
-1. **Evaluate the initial and ongoing costs** of implementing solar panels versus generators.
-2. **Analyze the return on investment (ROI)** and payback period for both energy solutions.
-3. **Assess the environmental impact** and long-term sustainability of each option.
-4. **Incorporate microeconomic factors** such as cost of materials, labor, and maintenance.
-5. **Consider macroeconomic factors** such as government policies, subsidies, and economic conditions in South Africa.
-
 ## Methodology
 
 1. **Data Collection**: Gathered data on the cost of solar panels and generators, including installation, maintenance, and operational costs.
